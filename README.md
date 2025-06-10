@@ -40,3 +40,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krtoxin&date_format=M%20j%5B%2C%20Y%5D&ring=A3629F&fire=E77ED0&currStreakLabel=E0A7DA&sideLabels=C27CB5&currStreakNum=E0A7DA&dates=C27CB5&sideNums=C27CB5&background=1E1E1E&border=A3629F)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krtoxin&color=914186&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Have a great day! <3</b>
+</p>
