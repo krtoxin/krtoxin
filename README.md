@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+krtoxin!;+Learning+Cybersecurity+|+Developer+|+Designer+|+App+Builder;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+krtoxin!;" />
 </h1>
 <p align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</p>
 
