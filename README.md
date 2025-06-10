@@ -11,7 +11,6 @@
 - 🚀 Passionate about exploring new tools, frameworks  
 - 📫 Reach me at: [nicolecrackxcx@gmail.com](mailto:nicolecrackxcx@gmail.com)
   
-<hr style="height:1px; border:none; background-color:#444; margin:10px 0;" />
 
 ### ⚙️ My Dev Arsenal
 
