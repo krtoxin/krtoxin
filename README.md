@@ -9,7 +9,7 @@
 - 🛡️ Currently learning **Cybersecurity** — fascinated by system security and ethical hacking  
 - 🎨 I enjoy creating **modern websites** with focus on **clean design** and **user experience**  
 - 💻 I also build **applications** and **programs** using **C#**, **JavaScript**, and other technologies  
-- 🚀 Passionate about exploring new tools, frameworks, and ways to make software more secure and user-friendly  
+- 🚀 Passionate about exploring new tools, frameworks  
 - 📫 Reach me at: [nicolecrackxcx@gmail.com](mailto:nicolecrackxcx@gmail.com)
   
 ---
