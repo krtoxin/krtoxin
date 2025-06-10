@@ -1,8 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+krtoxin!;" />
 </h1>
+
 <h3 align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</h3>
-<img align="right" src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif"/>
+
+<!-- Start of content with image on right -->
+<div style="display: flex; align-items: flex-start;">
+
+<!-- Text block -->
+<div style="flex: 1;">
 
 ### 🧬 About Me
 
@@ -11,7 +17,16 @@
 - 💻 I also build **applications** and **programs** using **C#**, **JavaScript**, and other technologies  
 - 🚀 Passionate about exploring new tools, frameworks  
 - 📫 Reach me at: [nicolecrackxcx@gmail.com](mailto:nicolecrackxcx@gmail.com)
-  
+
+</div>
+
+<!-- GIF block -->
+<div>
+    <img src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif" width="220px" style="margin-left: 20px;" />
+</div>
+
+</div>
+
 ---
 
 ### ⚙️ My Dev Arsenal
