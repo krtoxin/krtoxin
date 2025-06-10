@@ -11,7 +11,7 @@
 - 🚀 Passionate about exploring new tools, frameworks  
 - 📫 Reach me at: [nicolecrackxcx@gmail.com](mailto:nicolecrackxcx@gmail.com)
   
----
+<hr style="height:1px; border:none; background-color:#444; margin:10px 0;" />
 
 ### ⚙️ My Dev Arsenal
 
@@ -30,7 +30,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
+<hr style="height:1px; border:none; background-color:#444; margin:10px 0;" />
 
 ### 📊 GitHub Stats
 
