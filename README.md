@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+Kira!;" />
 </h1>
-<h3 align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</h3>
 <img align="right" src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif" width="180" height="180"/>
 
 ### 🧬 About Me
