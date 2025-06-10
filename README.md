@@ -12,7 +12,7 @@
 - 📫 Reach me at: [nicolecrackxcx@gmail.com](mailto:nicolecrackxcx@gmail.com)
   
 
-# ⚙️ My Dev Arsenal
+### ⚙️ My Dev Arsenal
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
