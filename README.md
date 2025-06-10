@@ -35,8 +35,8 @@
 
 ### 📊 GitHub Vitals
 
-![krtoxin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krtoxin&show_icons=true&theme=github_dark&count_private=true)
+![krtoxin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krtoxin&show_icons=true&count_private=true&title_color=693EF7&text_color=693EF7&icon_color=693EF7&border_color=693EF7&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krtoxin&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krtoxin&date_format=M%20j%5B%2C%20Y%5D&ring=693EF7&fire=693EF7&currStreakLabel=693EF7&sideLabels=693EF7&currStreakNum=693EF7&dates=693EF7&sideNums=693EF7&background=0D1117&border=693EF7)
 
 ---
