@@ -1,6 +1,9 @@
-<h1 align="center">Hey there, I'm krtoxin 🧑‍💻</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+krtoxin!;+Learning+Cybersecurity+|+Developer+|+Designer+|+App+Builder;" />
+</h1>
+<p align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</p>
 
-<p align="center">🚀 Software Developer | 🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</p>
+<img align="right" alt="Coding" width="280" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fkuromi-gif-png%2F927223831664%2F&psig=AOvVaw2S6tjB9QuyvClK2fbMeMIm&ust=1749648449775000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDsz8T65o0DFQAAAAAdAAAAABAE"/>
 
 ---
 
