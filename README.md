@@ -4,8 +4,6 @@
 <h3 align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</h3>
 <img align="right" width="280" height="200" src="https://tenor.com/view/chilling-kuromi-sanrio-vibing-gif-6386034995411371103"/>
 
----
-
 ### 🧬 About Me
 
 - 🛡️ Currently learning **Cybersecurity** — fascinated by system security and ethical hacking  
