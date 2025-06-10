@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Vitals
+### 📊 GitHub Stats
 
 ![krtoxin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krtoxin&show_icons=true&count_private=true&title_color=693EF7&text_color=693EF7&icon_color=693EF7&border_color=693EF7&bg_color=0D1117)
 
