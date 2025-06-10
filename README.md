@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+krtoxin!;" />
 </h1>
 <h3 align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</h3>
-<img align="right" width="280" height="200" src="[https://tenor.com/view/chilling-kuromi-sanrio-vibing-gif-6386034995411371103](https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif)"/>
+<img align="right" width="280" height="200" src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif"/>
 
 ### 🧬 About Me
 
