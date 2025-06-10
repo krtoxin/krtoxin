@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+krtoxin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=693EF7&duration=4000&lines=Hi+There!+👋;+I'm+Kira!;" />
 </h1>
 <h3 align="center">🛡️ Cybersecurity Learner | 🎨 UI Enthusiast</h3>
 <img align="right" src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif" width="180" height="180"/>
@@ -35,8 +35,8 @@
 
 ### 📊 GitHub Stats
 
-![krtoxin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krtoxin&show_icons=true&count_private=true&title_color=693EF7&text_color=693EF7&icon_color=693EF7&border_color=693EF7&bg_color=0D1117)
+![krtoxin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krtoxin&show_icons=true&count_private=true&title_color=E0A7DA&text_color=C27CB5&icon_color=914186&border_color=A3629F&bg_color=1E1E1E)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krtoxin&date_format=M%20j%5B%2C%20Y%5D&ring=693EF7&fire=693EF7&currStreakLabel=693EF7&sideLabels=693EF7&currStreakNum=693EF7&dates=693EF7&sideNums=693EF7&background=0D1117&border=693EF7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krtoxin&date_format=M%20j%5B%2C%20Y%5D&ring=A3629F&fire=E77ED0&currStreakLabel=E0A7DA&sideLabels=C27CB5&currStreakNum=E0A7DA&dates=C27CB5&sideNums=C27CB5&background=1E1E1E&border=A3629F)
 
 ---
