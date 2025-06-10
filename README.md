@@ -22,7 +22,7 @@
 
 <!-- GIF block -->
 <div>
-    <img src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif" width="220px" style="margin-left: 20px;" />
+    <img src="https://media.tenor.com/WJ_A_mC1RF8AAAAj/chilling-kuromi.gif" width="220px" style="margin-right: 20px;" />
 </div>
 
 </div>
